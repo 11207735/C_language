@@ -1,19 +1,12 @@
-## 🧠 Goals
+# 🚀 1337 Pool - C00 Exercises
 
-- Master writing simple functions in C.
-- Understand `char`, `int`, and how to use `if` and `while`.
-- Learn how to print using `write()` system call.
-- Begin to think like a developer: structure, readability, and logic.
+Welcome to the **C00** exercises for the 1337 School Pool!  
+This project focuses on **basic C programming**, including functions, conditions, and loops — the essential building blocks of writing your own code in C.
 
 ---
 
-## 📘 Exercise Summary
+## 📁 Structure
 
-### ✅ ex00 – `ft_putchar`
-> Write a function that prints a single character to standard output.
 
-**Function prototype:**
-```c
-void ft_putchar(char c);
 
 
